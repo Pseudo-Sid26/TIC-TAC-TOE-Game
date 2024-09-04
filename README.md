@@ -1,4 +1,4 @@
-                                       🎮 Tic Tac Toe Game - Next-Level Edition
+                                           🎮 Tic Tac Toe Game - Next-Level Edition
 
 Welcome to Tic Tac Toe - Next-Level Edition, a modern twist on the classic game we all know and love. This project goes beyond the basics, offering an interactive, visually stunning, and feature-rich experience that will make you fall in love with Tic Tac Toe all over again.
 
