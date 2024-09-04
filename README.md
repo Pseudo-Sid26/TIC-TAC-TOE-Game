@@ -23,11 +23,13 @@ Responsive Design: Enjoy the game on any device—desktop, tablet, or mobile—w
 
 🎯 Objective
 
+
 The objective is simple: be the first to align three of your marks (O or X) horizontally, vertically, or diagonally. Play against a friend or take on the AI to test your skills!
 
 
 
 🎨 Aesthetic Details
+
 
 Confetti Celebration: Every victory is sweeter with a burst of confetti celebrating your win.
 
@@ -39,6 +41,7 @@ Interactive Elements: Every button and box responds to your interactions with sm
 
 📂 Project Structure
 
+
 index.html: The main HTML file that structures the webpage.
 
 style.css: The CSS file that brings the game to life with beautiful design and animations.
@@ -49,6 +52,7 @@ apk.js: The JavaScript file that powers the game logic, animations, and interact
 
 🛠️ Technologies Used
 
+
 HTML5: For the basic structure and content.
 
 CSS3: To add style, animations, and responsive design.
@@ -58,6 +62,8 @@ JavaScript: To handle the game logic, user interactions, and dynamic updates.
 
 
 🕹️ How to Play
+
+
 Clone this repository to your local machine.
 
 Copy code: git clone https://github.com/Pseudo-Sid26/TIC-TAC-TOE-Game.git
@@ -72,6 +78,7 @@ Undo your move if you change your mind and try out different strategies.
 
 🧠 Future Enhancements
 
+
 Multiplayer Mode: Play against other players online.
 Advanced AI: Incorporate machine learning to create a more challenging AI opponent.
 
@@ -79,6 +86,7 @@ Custom Themes: Allow players to choose from a variety of themes or even design t
 
 
 🌟 Why This Project Stands Out
+
 
 This project isn't just a regular Tic Tac Toe game—it's a showcase of how a simple game can be transformed into an engaging, visually appealing, and feature-rich web application. The combination of dynamic UI, interactive elements, and attention to detail makes it a standout project for your portfolio.
 
