@@ -62,6 +62,7 @@ The objective is simple: be the first to align three of your marks (O or X) hori
 4.  Undo your move if you change your mind and try out different strategies.
 
 
+---
 
 
 🧠 Future Enhancements 🧠
@@ -72,7 +73,7 @@ The objective is simple: be the first to align three of your marks (O or X) hori
 🎨 Custom Themes: Allow players to choose from a variety of themes or even design their own.
 
 
-
+---
 
 🌟 Why This Project Stands Out 🌟
 
@@ -80,6 +81,7 @@ The objective is simple: be the first to align three of your marks (O or X) hori
 This project isn't just a regular Tic Tac Toe game—it's a showcase of how a simple game can be transformed into an engaging, visually appealing, and feature-rich web application. The combination of dynamic UI, interactive elements, and attention to detail makes it a standout project for your portfolio. 📁💻
 
 
+---
 
 
 🤝 Contributing 🤝
